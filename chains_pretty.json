@@ -20576,33 +20576,6 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "Santiment Intelligence Network",
-  "chain": "Santiment Intelligence Network",
-  "rpc": ["https://sanrchain-node.santiment.net"],
-  "faucets": [],
-  "nativeCurrency": {
-    "name": "SANR",
-    "symbol": "SANR",
-    "decimals": 18
-  },
-  "infoURL": "https://sanr.app",
-  "shortName": "SAN",
-  "chainId": 11888,
-  "networkId": 11888,
-  "icon": "sanrchain",
-  "parent": {
-    "chain": "eip155-1",
-    "type": "L2",
-    "bridges": [{
-      "url": "https://sanr.app"
-    }]
-  },
-  "explorers": [{
-    "name": "Santiment Intelligence Explorer",
-    "url": "https://app-explorer-pos.sanr.app",
-    "standard": "none"
-  }]
-}, {
   "name": "Polygon Supernet Arianee",
   "chain": "Arianee",
   "rpc": ["https://rpc.polygonsupernet.public.arianee.net"],
@@ -23310,6 +23283,33 @@
     "url": "https://w3gamez-holesky.web3games.com",
     "icon": "web3games",
     "standard": "EIP3091"
+  }]
+}, {
+  "name": "Santiment Intelligence Network",
+  "chain": "Santiment Intelligence Network",
+  "rpc": ["https://sanrchain-node.santiment.net"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "SANR",
+    "symbol": "SANR",
+    "decimals": 18
+  },
+  "infoURL": "https://sanr.app",
+  "shortName": "SAN",
+  "chainId": 32382,
+  "networkId": 32382,
+  "icon": "sanrchain",
+  "parent": {
+    "chain": "eip155-1",
+    "type": "L2",
+    "bridges": [{
+      "url": "https://sanr.app"
+    }]
+  },
+  "explorers": [{
+    "name": "Santiment Intelligence Explorer",
+    "url": "https://app-explorer-pos.sanr.app",
+    "standard": "none"
   }]
 }, {
   "name": "Bitgert Mainnet",
