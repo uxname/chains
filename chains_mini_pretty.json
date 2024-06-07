@@ -14405,7 +14405,7 @@
 }, {
   "name": "Santiment Intelligence Network",
   "chainId": 32382,
-  "shortName": "SAN",
+  "shortName": "SANR",
   "networkId": 32382,
   "nativeCurrency": {
     "name": "SANR",
