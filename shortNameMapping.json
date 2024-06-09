@@ -982,6 +982,7 @@
   "bevm": "eip155:11501",
   "bevm-test": "eip155:11503",
   "SRDXt": "eip155:11612",
+  "SANold": "eip155:11888",
   "Arianee": "eip155:11891",
   "sats": "eip155:12009",
   "ATR": "eip155:12020",

@@ -12778,6 +12778,19 @@
   "faucets": ["https://faucet.sardisnetwork.com"],
   "infoURL": "https://mysardis.com"
 }, {
+  "name": "Santiment Intelligence Network DEPRECATED",
+  "chainId": 11888,
+  "shortName": "SANold",
+  "networkId": 11888,
+  "nativeCurrency": {
+    "name": "SANold",
+    "symbol": "SANold",
+    "decimals": 18
+  },
+  "rpc": ["https://sanrchain-node.santiment.net"],
+  "faucets": [],
+  "infoURL": "https://sanr.app"
+}, {
   "name": "Polygon Supernet Arianee",
   "chainId": 11891,
   "shortName": "Arianee",
